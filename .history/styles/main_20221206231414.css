@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    height: 100vh;
+    font-family: 'Lobster', cursive;
+    background-color: #181D31;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+
+}
+
+.watch__box {
+
+}
+
+.watch_list {
+
+}
+
+.watch_box-item {
+
+}
+
+.watch-item {
+
+}
+
+
+.watch-box div {
+    color : #FFF8EA;
+}

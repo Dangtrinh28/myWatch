@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap');
+
+body {
+    height: 100vh;
+    background-color: #181D31;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    color: #D8D9CF;
+}
+
+.container__heading {
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+.watch__box {
+    margin: 50px;
+}
+
+.watch_list {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #D8D9CF;
+    font-size: 24px;
+}
+
+.watch_box-item {
+    border: 1px solid #ccc;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 8px;
+}
+
+.watch_box-item span{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.watch-item {
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-family: 'Lobster', cursive;
+}
+
+.house {
+    
+}
+
+.minius {
+    
+}
+
+.second {
+    
+}
+
+.contact {   
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+}
+
+.contact__item {
+    margin: 0 20px;
+}
+
+.contact__link {
+    text-decoration: none;
+    color: #D8D9CF;
+
+}
